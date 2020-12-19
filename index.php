@@ -26,7 +26,7 @@
                     <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">About Us</a>
+                    <a class="nav-link" href="bootstrap.php">About Us</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Contact</a>
@@ -36,8 +36,7 @@
                         Products
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                        <a class="dropdown-item" href="#">Clothes</a>
-                        <a class="dropdown-item" href="#">Shoes</a>
+                        <a class="dropdown-item" href="calculator/calculator.php">Calculator</a>
                     </div>
                 </li>
             </ul>
@@ -52,21 +51,21 @@
         </ol>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img class="d-block w-100" src="images/bg-1.jpg" alt="Stylish slide" style="min-height: 760px;">
+                <img class="d-block w-100" src="images/bg-1.jpg" alt="Stylish slide" style="min-height: 780px;">
                 <div class="carousel-caption d-none d-md-block">
                     <h1 style="font-size: 5rem;">Stylish</h1>
                     <p class="h2">Style your everyday.</p>
                 </div>
             </div>
             <div class="carousel-item">
-                <img class="d-block w-100" src="images/bg-2.jpg" alt="Unique slide" style="min-height: 760px;">
+                <img class="d-block w-100" src="images/bg-2.jpg" alt="Unique slide" style="min-height: 780px;">
                 <div class="carousel-caption d-none d-md-block">
                     <h1 style="font-size: 5rem;">Unique</h1>
                     <p class="h2">Suit your unique taste.</p>
                 </div>
             </div>
             <div class="carousel-item">
-                <img class="d-block w-100" src="images/bg-3.jpg" alt="Trendy slide" style="height: 760px;">
+                <img class="d-block w-100" src="images/bg-3.jpg" alt="Trendy slide" style="min-height: 780px;">
                 <div class="carousel-caption d-none d-md-block">
                     <h1 style="font-size: 5rem;">Trendy</h1>
                     <p class="h2">Confuse your mirror by our trendy outfits.</p>

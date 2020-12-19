@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.form-control:disabled {
+    background-color: #fff;
+}
+
+.form-control {
+    text-align: right;
+    font-size: 2rem;
+}
+
+.btn {
+    margin: 4px;
+}
+
+.row {
+    display: flex;
+    justify-content: space-around;
+}
